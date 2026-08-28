@@ -1,0 +1,5 @@
+pypdf
+openai
+pinecone
+dotenv
+reportlab
